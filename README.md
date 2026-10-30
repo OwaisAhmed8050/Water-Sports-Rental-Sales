@@ -3,9 +3,10 @@
 
 An interactive Excel dashboard analyzing 2026 water sports rental sales, built with PivotTables, charts, and slicers.
 
-Water-Sports-Rental-Sales<img width="1092" height="677" alt="Screenshot 2026-10-30 153219" src="https://github.com/user-attachments/assets/b6ed19f2-af56-4e76-9eb1-ba854b9b0878" />
+Water-Sports-Rental-Sales<img width="1593" height="987" alt="Water Sports Rental Sales Dashboard" src="https://github.com/user-attachments/assets/935011f0-2748-4e8d-b905-c5cad063b2e7" />
+/>
 
-)
+
 
 ## Key Metrics
 - **Total Revenue:** $169,963.46
