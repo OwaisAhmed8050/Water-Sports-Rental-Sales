@@ -4,7 +4,7 @@
 An interactive Excel dashboard analyzing 2026 water sports rental sales, built with PivotTables, charts, and slicers.
 
 Water-Sports-Rental-Sales<img width="1593" height="987" alt="Water Sports Rental Sales Dashboard" src="https://github.com/user-attachments/assets/935011f0-2748-4e8d-b905-c5cad063b2e7" />
-/>
+
 
 
 
